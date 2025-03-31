@@ -1,0 +1,27 @@
+/* src/components/ProductListingPage.css */
+.product-listing-page {
+    text-align: center;
+  }
+  
+  .plant-categories {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .plant-card {
+    width: 200px;
+    margin: 20px;
+    text-align: center;
+    border: 1px solid #ddd;
+    padding: 10px;
+  }
+  
+  .add-to-cart-btn {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
